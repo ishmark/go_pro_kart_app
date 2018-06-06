@@ -1,0 +1,3 @@
+rootProject.name = 'go_pro_kart_app'
+
+include ':app'
